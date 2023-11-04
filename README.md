@@ -5,7 +5,7 @@ This is a repository template containing all the information that needs to accom
 
 Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 ___________
-# Project Name
+# AIDA by American
 
 ## Challenge Statement(s) Addressed 🎯
 **...include the challenge statement(s) the project worked to address**
