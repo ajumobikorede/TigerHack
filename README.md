@@ -26,9 +26,8 @@ Examples:
 **... what tech was used to bring this project to life?**
 
 Example:
-* FastAPI
-* Hugging Face AI Models
-* Next.js
+* FastAPI 
+* JS
 
 
 ### ✨ Contributors ✨
