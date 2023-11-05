@@ -1,7 +1,7 @@
-# Tigerhack-BE Smart Hack Repo
+# Tigershack-BE Smart Hack Repo
 
 ## Description 🚨 
-This is a repository for Tigerhack- Edward Waters University containing all of our deliverables
+This is a repository for Tigershack- Edward Waters University containing all of our deliverables
 
 ___________
 # Aida by American
