@@ -22,15 +22,15 @@ Additionally, it translates into significant cost and time savings for American 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
 
-Example:
-* FastAPI 
+* supabase
 * JS
 * HTML & CSS
-* 
+* Nodejs Express
+ 
 
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
+**...meet the team**
 * Divine Ogugua (V6TL970)
 * Faith Ajumobi W5PY776)
 * Peace Amhanesi (W6WY168)
