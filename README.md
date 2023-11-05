@@ -26,6 +26,8 @@ Additionally, it translates into significant cost and time savings for American 
 Example:
 * FastAPI 
 * JS
+* HTML & CSS
+* 
 
 
 ### ✨ Contributors ✨
