@@ -5,22 +5,20 @@ This is a repository template containing all the information that needs to accom
 
 Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 ___________
-# Project Name
+# Aida by American
 
 ## Challenge Statement(s) Addressed 🎯
-**...include the challenge statement(s) the project worked to address**
-
-Examples:
-* How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
-* How might we make it possible for people in cities not to have to own a car by making car-sharing easier so that the environment will be less damaged and people can save money?
-* How might we ....
+** How might we revolutionize the boarding process to significantly reduce delays, minimize congestion, and enhance passenger satisfaction while maintaining existing priority boarding groups?
 
 ## Project Description 🤯
-**....at lease 3 sentences describing what the project does and how it works**
+**Seamless Seat-Based Boarding: Aida assigns boarding numbers based on seat positions, prioritizing back-to-front and window-to-aisle, reducing congestion.
+**Real-Time Queue Updates: Get instant alerts on queue lengths at various airport checkpoints, empowering you to plan your journey efficiently.
+**Predictive Insights: Leverage historical data and AI algorithms to predict peak times, helping you and American Airlines allocate resources wisely for a smoother travel experience.
 
 ## Project Value 💰
-**....at lease 3 sentences describing your target customer and tangible benefits from your solution**
-
+Aida by American targets air travelers who crave a stress-free journey, including frequent flyers and business professionals. They seek efficient travel experiences and value their time.
+The app offers tangible benefits for customers through reduced waiting times, smoother boarding, and real-time queue updates, ensuring passengers have more control over their travel plans and experience less stress.
+Additionally, it translates into significant cost and time savings for American Airlines, improving operational efficiency and reducing delays. E.g 40,000 hours saved per year & $70M Savings (if one minute was saved per flight * 5000 flights * 365 days)
 
 ## Tech Overview 💻
 **... what tech was used to bring this project to life?**
@@ -32,15 +30,17 @@ Example:
 
 ### ✨ Contributors ✨
 **...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+* Divine Ogugua (V6TL970)
+* Faith Ajumobi W5PY776)
+* Peace Amhanesi (W6WY168)
+* Dismus Kipngetich (F3HE086)
+* Shania Ewell (M1XD086)
 
 ### School Name 🏫
-The ABC School
+Edward Waters University 
 
 ### Team Name 🏷
-Coding Costars
+Tigers Hack
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
