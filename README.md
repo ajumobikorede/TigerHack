@@ -25,8 +25,9 @@ Additionally, it translates into significant cost and time savings for American 
 * supabase
 * JS
 * HTML & CSS
-* Nodejs Express
- 
+* Nodejs ExpressS
+
+
 
 
 ### ✨ Contributors ✨
@@ -44,10 +45,10 @@ Edward Waters University
 Tigers Hack
 
 ### Link to Video Pitch 📹
-**...point us to where you tell us about your solution 😄**
+**...(https://drive.google.com/drive/folders/1ZkAZtx_CPesQmQBtvadY_OjBOiNnMJt1?usp=sharing)
 
 ### Link to Demo Presentation 📽
-**...point us to your PPT or Canva slides 😍**
+**(https://www.canva.com/design/DAFzOqFFq4w/bR_1ZmVCPaR4U-2LPaoSfw/edit?utm_content=DAFzOqFFq4w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [ ] Team photo
