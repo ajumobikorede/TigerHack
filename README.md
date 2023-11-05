@@ -27,7 +27,8 @@ Example:
 * FastAPI 
 * JS
 * HTML & CSS
-* 
+* Node.JS
+* SuperBase
 
 
 ### ✨ Contributors ✨
