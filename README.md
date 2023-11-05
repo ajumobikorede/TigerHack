@@ -1,4 +1,4 @@
-# BE Smart Hack Repo Template
+# Tigerhack-BE Smart Hack Repo
 
 ## Description 🚨 
 This is a repository template containing all the information that needs to accompany your project.
