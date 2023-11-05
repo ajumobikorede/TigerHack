@@ -1,0 +1,59 @@
+.login-container .content {
+    max-width: 500px; /* Adjust the width as needed */
+    margin: 0 auto;
+    padding: 2em;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 1;
+    text-align: center;
+  }
+  
+  .login-container .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .login-container label, .login-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .login-container button {
+    background-color: var(--primary-color); /* Adjust the color as needed */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .login-container button:hover {
+    background-color: #009c8e; /* Adjust the hover color as needed */
+  }
+  /* Add this CSS for the blue "Log In" text */
+.blue-text {
+    color: #0078d2; /* Adjust the color as needed */
+  }
+  
+  /* Adjust the margin-top to raise the login box higher */
+  .login-container .content {
+    max-width: 500px; /* Adjust the width as needed */
+    margin: 2em auto; /* Adjust the margin-top to raise it higher */
+    padding: 2em;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 1;
+    text-align: center;
+  }
+  
+  
