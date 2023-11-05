@@ -1,9 +1,8 @@
 # Tigerhack-BE Smart Hack Repo
 
 ## Description 🚨 
-This is a repository template containing all the information that needs to accompany your project.
+This is a repository for Tigerhack- Edward Waters University containing all of our deliverables
 
-Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 ___________
 # Aida by American
 
